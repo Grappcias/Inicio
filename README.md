@@ -12,7 +12,7 @@
 
 1. [Como colaborar](#como-colaborar)
 2. [Proyectos](#proyectos)
-3. [Eventos] (#eventos)
+3. [Eventos](#eventos)
 4. [Bibliografia Libre](#bibliografia-libre)
 4. [Contactos](#contactos)
 
@@ -29,17 +29,17 @@
 
 ## Proyectos
 
-1. BloodBrother (Aplicacion destinada a conseguir donantes de sangre y postularte como donante en caso que lo seas)
-2. 
+1. [BloodBrother](https://github.com/Grappcias/bloodbrothers) (Aplicacion destinada a conseguir donantes de sangre y postularte como donante en caso que lo seas)
+2. [LibreU](https://github.com/Grappcias/libreu) (Una universidad libre, hecho con software y contenidos libre.)
 3. 
 
 ## Eventos
 
-  Una guia de eventos donde participamos como colaboradores o asistentes, si estás por organizar un evento y querés difundir nuestra idea
+  Una guia de eventos donde participamos como colaboradores o asistentes, si estás por organizar un evento y querés difundir nuestra idea podes hacerlo. Si ves que falta algun evento no dudes y agregalo a la [lista](https://github.com/Grappcias/Eventos). 
   SUMATE !!
 
 ## Bibliografia Libre
 
-  Un repositorio donde colocamos bilbiografia con licencias libres para que puedas leer y aprender.
+  Un [repositorio](https://github.com/Grappcias/Bibliografia-Libre) donde colocamos bibliografia con licencias libres para que puedas leer y aprender.
   En algunos [Eventos](#eventos) a los cuales asistimos, creamos una [Piratebox](https://piratebox.cc/) para compartir entre todos este material. 
   Sentite libre de aportar con el material que tengas. 
